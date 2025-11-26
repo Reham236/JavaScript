@@ -1,13 +1,3 @@
-// First Way - Using Single Line Comments
-// console.log("Iam In Console");
-// document.write("Iam In Page");
-
-// Second Way - Using Multi-line Comment Block
-/*
-console.log("Iam In Console");
-document.write("Iam In Page");
-*/
-
 // Task 2
 document.write("<h1>Elzero</h1>");
 document.querySelector("h1").style.color = "blue";
